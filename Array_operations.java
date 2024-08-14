@@ -54,11 +54,6 @@ class array {
 
 }
 
-
-
-
-
-
 public class Array_operations {
     public static void main(String[] args) {
         array a1 =new array(2);
